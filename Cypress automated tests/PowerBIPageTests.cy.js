@@ -1,6 +1,6 @@
 import { PageElements, PageActions } from "./PageObjects";
 import { AssertSelectors } from "./PageAssertions";
-import { DataImportElements } from "./DataImport";
+import { DataImportElements } from "./TestData";
 
 describe('ICT Strypes task test cases', () => {
     beforeEach(() => {
